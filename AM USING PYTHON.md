@@ -72,6 +72,6 @@ Calculation
 ![WhatsApp Image 2025-11-03 at 08 53 53_2cfba46b](https://github.com/user-attachments/assets/9cac5d09-7235-49cd-84fe-bed48a315525)
 
 
-RESULT:
+# RESULT:
 
 Thus, the AMPLITUDE  modulation using python  is successfully done and the output is experimentally verified.
