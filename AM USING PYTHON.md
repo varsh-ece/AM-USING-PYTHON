@@ -1,14 +1,12 @@
 ## AM USING PYTHON
 
-## FM
-EXP NO: 4 GENERATION AND DETECTION OF AM 
-
 ## AIM: 
-o implement and analyze frequency modulation (FM) using Python's NumPy and Matplotlib libraries.
+o implement and analyze Amplitude modulation (AM) using Python's NumPy and Matplotlib libraries.
 
 ## EQUIPMENTS REQUIRED
 
-• Computer with i3 Processor • SCI LAB
+• Software: Python with NumPy and Matplotlib libraries
+Hardware: Personal Computer
 
 ## THEORY:
 
@@ -17,17 +15,16 @@ AM is an analog modulation technique where the amplitude of a high-frequency car
 
 PROCEDURE
 
-Install/Import Libraries: Ensure the necessary libraries, NumPy (np) for numerical calculation and Matplotlib (plt) for plotting, are imported. This is done by the first two lines of the code.
+1.Install/Import Libraries: Ensure the necessary libraries, NumPy (np) for numerical calculation and Matplotlib (plt) for plotting, are imported. This is done by the first two lines of the code.
 
-Define Parameters: Define the amplitudes (Am, Ac) and frequencies (Fm, Fc, Fs) for the message and carrier signals. These constants determine the characteristics of the generated signals.
+2.Define Parameters: Define the amplitudes (Am, Ac) and frequencies (Fm, Fc, Fs) for the message and carrier signals. These constants determine the characteristics of the generated signals.
 
-Create Time Base: Generate a time vector (t) using np.arange(). This array represents the discrete time points over which the signals will be sampled and calculated.
+3.Create Time Base: Generate a time vector (t) using np.arange(). This array represents the discrete time points over which the signals will be sampled and calculated.
 
-Generate Signals: Use the defined parameters and the time base (t) to calculate the three required signal arrays: the message signal (m), the carrier signal (c), and the final AM signal (s).
+4.Generate Signals: Use the defined parameters and the time base (t) to calculate the three required signal arrays: the message signal (m), the carrier signal (c), and the final AM signal (s).
 
-Plot and Visualize: Use the plt.subplot() function to create a figure with three separate axes and plot the three generated signals (m, c, and s) in their respective positions for visual comparison. Finally, use plt.show() to display the generated graph.
+5.Plot and Visualize: Use the plt.subplot() function to create a figure with three separate axes and plot the three generated signals (m, c, and s) in their respective positions for visual comparison. Finally, use plt.show() to display the generated graph.
 
-Would you like to modify any of the parameters (like frequency or amplitude) to see how the AM
 
 
 ## Program:
