@@ -13,7 +13,7 @@ Hardware: Personal Computer
 Theory of Amplitude Modulation (AM)
 AM is an analog modulation technique where the amplitude of a high-frequency carrier wave is varied in proportion to the instantaneous amplitude of a low-frequency message signal (or baseband signal).
 
-PROCEDURE
+# PROCEDURE
 
 1.Install/Import Libraries: Ensure the necessary libraries, NumPy (np) for numerical calculation and Matplotlib (plt) for plotting, are imported. This is done by the first two lines of the code.
 
